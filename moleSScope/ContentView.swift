@@ -13,7 +13,7 @@ struct ContentView: View {
     @State private var avatarImage: Image?
     
     @State private var isOption1Selected = false
-    @State private var isOption2Selected = false
+    @State private var isOption2Selected = true
     @State private var isOption3Selected = false
 
     @State private var age: String = ""
