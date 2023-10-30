@@ -20,8 +20,8 @@ struct ContentView: View {
     @State private var genderOptions = ["Muški", "Ženski"]
     @State private var selectedGender = "Muški"
     @State private var number: String = ""
-    @State private var location = ["Ruke", "Noge","Leđa","Prsa","Trbuh","Glava","Vrat"]
-    @State private var selectedLocation = "Ruke"
+    @State private var location = ["Ruka", "Noga","Leđa","Prsa","Trbuh","Glava","Vrat"]
+    @State private var selectedLocation = "Ruka"
 
 
 
